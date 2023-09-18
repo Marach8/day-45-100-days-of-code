@@ -168,7 +168,7 @@ def remove():
           #del list1[i][d]
           print()
           time.sleep(1.5)
-          print('\033[32mItem removed succesfully')
+          print('\033[32mItem removed succesfully.')
           time.sleep(2)
           break
         else:
